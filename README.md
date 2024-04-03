@@ -14,16 +14,10 @@
 ### Навыки ⚡️
 
 <p align="left"> 
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="36" height="36" alt="Kotlin" />
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width="36" height="36" alt="Java" />
-</a>
-<a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" width="36" height="36" alt="Android Studio" />
-</a> 
-</p> 
+    <a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg" width="36" height="36" alt="Kotlin" /></a>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg" width="36" height="36" alt="Java" /></a>
+    <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/55/Android_Studio_Logo_%282023%29.svg" width="36" height="36" alt="Android Studio" /></a> 
+</p>
 
 ### Социальные сети 🙋‍♂️
 
