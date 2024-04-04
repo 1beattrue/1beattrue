@@ -29,4 +29,4 @@
 
 ### LeetCode
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=onebeattrue)]
+![LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=onebeattrue)
