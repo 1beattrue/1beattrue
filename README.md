@@ -26,3 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/VK_Compact_Logo_%282021-present%29.svg" width="36" height="36" alt="VK" />
 </a>
 </p>
+
+### LeetCode
+
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=onebeattrue)](https://github.com/KnlnKS/leetcode-stats)
