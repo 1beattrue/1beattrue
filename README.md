@@ -8,7 +8,7 @@
 
 * 🌏 Живу в Москве
 * ✉️ Вы можете связаться со мной по адресу [vo.sviridov@yandex.ru](mailto:vo.sviridov@yandex.ru)
-* 🚀 В настоящее время работаю над приложением [Мой Маленький Питомец](http://github.com/1beattrue/MyLittlePet)
+* 🚀 В настоящее время работаю над приложением [Терминал](https://github.com/1beattrue/Terminal)
 * 🧠 На данный момент изучаю [MVIKotlin](https://github.com/arkivanov/MVIKotlin) и [Decompose](https://github.com/arkivanov/Decompose)
 
 ### Навыки
