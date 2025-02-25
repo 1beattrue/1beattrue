@@ -1,7 +1,7 @@
 # Привет! 👋 Меня зовут Виталий
 
 ## 🛠 Мои навыки
-Kotlin • Java • Android SDK • SOLID • MVI • MVVM • Jetpack Compose • Dagger 2 • Retrofit • Coroutines • Flow • Room • Navigation • MVIKotlin • Decompose • Canvas • Firebase
+Kotlin • Java • Android SDK • SOLID • MVI • MVVM • Jetpack Compose • Dagger 2 • Retrofit • Coroutines • Flow • Room • Navigation • MVIKotlin • Decompose • Canvas
 
 ## 🚀 Мои текущие проекты
 Сейчас работаю над приложением [Pitanil](https://pitanil.ru), а также изучаю [MVIKotlin](https://github.com/arkivanov/MVIKotlin) и [Decompose](https://github.com/arkivanov/Decompose).
